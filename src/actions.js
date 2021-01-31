@@ -1,4 +1,3 @@
-//export
 class ActionMonitor {
   //Private map that tracks the number of instances for a given action
   #actionInstances = new Map()
