@@ -1,0 +1,22 @@
+{
+  "name": "jumpcloud_exercise",
+  "version": "1.0.0",
+  "description": "JumpCloud Programming Exercise",
+  "main": "actions.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barton-w/jumpcloud_exercise.git"
+  },
+  "author": "Wes Barton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barton-w/jumpcloud_exercise/issues"
+  },
+  "homepage": "https://github.com/barton-w/jumpcloud_exercise#readme",
+  "dependencies": {
+    "deasync": "^0.1.21"
+  }
+}
